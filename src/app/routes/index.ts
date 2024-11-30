@@ -1,7 +1,7 @@
 import express from 'express';
-import { UseRoutes } from '../modules/User/user.route';
 import { AdminRoutes } from '../modules/Admin/admin.routes';
 import { AuthRoutes } from '../modules/Auth/auth.routes';
+import { UseRoutes } from '../modules/User/user.route';
 
 
 
